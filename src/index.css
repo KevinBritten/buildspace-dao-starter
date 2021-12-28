@@ -1,11 +1,11 @@
 html,
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #b4d3bc;
+  color: rgb(13, 11, 121);
   overflow-x: hidden;
 }
 #root {
@@ -93,7 +93,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #e97763;
 }
 
 .member-page form .card > div {
@@ -116,7 +116,7 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: rgb(44, 38, 38);
   color: #fff;
   border: none;
   font-weight: bold;
@@ -128,7 +128,7 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #c05555;
 }
 
 button:focus {
